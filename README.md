@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**JackMcKitttrick/JackMcKitttrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Jack 👋
+I'm a Computer Science student at the University of Georgia pursuing a B.S. in Computer Science and an M.S. in Cybersecurity & Privacy.
+I have the following certifications: AWS Certified Solutions Architect Associate | CCNA | CompTIA Security+
+I have worked in the following positions: Kulicke and Soffa Software Engineer Intern, Rhoads Industries Cybersecurity Intern, CyberArch Cybersecurity Consultant Team Lead
+I aspire to work in any of the following fields: Cloud Engineering, Cybersecurity, Networking
+## Current Work
+I am building an application that utilizes as many AWS services as possible.
+I am working on my networking homelab to build and use networking and cybersecurity tools.
+I am studying for AWS Security Specialization certification.
+## Tech Stack
+**Languages:** C++, Python, Java, SQL, R 
+**Tools & Technologies:** AWS, Visual Studio 2022, CMake, Incredibuild, Git, Bamboo, Wireshark, Tcpdump
+## Connect
+- LinkedIn: https://www.linkedin.com/in/jack-mckittrick-64b98a282
+- Email: jackmckittrick12@gmail.com
