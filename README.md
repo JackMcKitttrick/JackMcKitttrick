@@ -25,8 +25,8 @@ I'm a Computer Science student at the University of Georgia pursuing a B.S. in C
 
 ## Tech Stack
 
-- **Languages:** C++, Python, Java, SQL, R
-- **Tools & Technologies:** AWS Services, Visual Studio 2022, CMake, Incredibuild, Git, Bamboo, Wireshark, Tcpdump
+- **Languages:** C++, Python, Node.js, React, Java, SQL, R, C
+- **Tools & Technologies:** AWS Services, Visual Studio 2022, CMake, Incredibuild, Git, Bamboo, Wireshark, Tcpdump, Windows, Linux
 
 ## Connect
 
