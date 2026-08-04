@@ -1,5 +1,5 @@
 # Hi, I'm Jack 👋
-I'm a Computer Science student at the University of Georgia pursuing a B.S. in Computer Science and an M.S. in Cybersecurity & Privacy. <br> <br>
+I'm a Computer Science student at the University of Georgia pursuing a B.S. in Computer Science and an M.S. in Cybersecurity & Privacy. <br> 
 **I have the following certifications:** <br> AWS Certified Solutions Architect Associate | CCNA | CompTIA Security+ <br>
 **I have worked in the following positions:** <br> Kulicke and Soffa Software Engineer Intern, Rhoads Industries Cybersecurity Intern, CyberArch Cybersecurity Consultant Team Lead <br>
 **I aspire to work in any of the following fields:** <br> Cloud Engineering, Cybersecurity, Networking <br>
