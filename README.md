@@ -29,5 +29,7 @@ I'm a Computer Science student at the University of Georgia pursuing a B.S. in C
 - **Languages:** C++, Python, Node.js, Java, SQL, R, C
 - **Tools & Technologies:** AWS Services, Visual Studio 2022, CMake, Incredibuild, Git, Bamboo, Wireshark, Tcpdump, Windows, Linux
 
-- LinkedIn: https://www.linkedin.com/in/jack-mckittrick-64b98a282
+## Connect
+
+- LinkedIn: www.linkedin.com/in/jack-mckittrick
 - Email: jackmckittrick12@gmail.com
